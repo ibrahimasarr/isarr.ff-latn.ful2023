@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KeymanDeveloperProjectUser>
+  <ViewState>
+    <tab>2</tab>
+    <showhelp>1</showhelp>
+    <path>C:\Users\Ibrahima SARR\Documents\Keyman Developer\Projects\isarr.ff-latn.ful2023\isarr.ff-latn.ful2023.kpj</path>
+    <file ID="id_5ac3767aa65a1185dbb2cdacf7c0d504" Expanded="1"/>
+  </ViewState>
+  <FileStates>
+    <FileState>
+      <ID>id_96170fbfd629e7c8fb6af5db9090a2a7</ID>
+      <FullPath>C:\Users\Ibrahima SARR\Documents\Keyman Developer\Projects\isarr.ff-latn.ful2023\source\isarr.ff-latn.ful2023.model.ts</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+      <Debug>False</Debug>
+      <TestKeyboard></TestKeyboard>
+    </FileState>
+    <FileState>
+      <ID>id_5ac3767aa65a1185dbb2cdacf7c0d504</ID>
+      <FullPath>C:\Users\Ibrahima SARR\Documents\Keyman Developer\Projects\isarr.ff-latn.ful2023\source\isarr.ff-latn.ful2023.model.kps</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+    </FileState>
+    <FileState>
+      <ID>id_ede98e4633e239f933cbfd1f4e1b766c</ID>
+      <FullPath>C:\Users\Ibrahima SARR\Documents\Keyman Developer\Projects\isarr.ff-latn.ful2023\HISTORY.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_53e892b8b41cc4caece1cfd5ef21d6e7</ID>
+      <FullPath>C:\Users\Ibrahima SARR\Documents\Keyman Developer\Projects\isarr.ff-latn.ful2023\LICENSE.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_0730bb7c2e8f9ea2438b52e419dd86c9</ID>
+      <FullPath>C:\Users\Ibrahima SARR\Documents\Keyman Developer\Projects\isarr.ff-latn.ful2023\README.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_7a7cef3d9147f7c1415243ddaef71481</ID>
+      <FullPath>C:\Users\Ibrahima SARR\Documents\Keyman Developer\Projects\isarr.ff-latn.ful2023\isarr.ff-latn.ful2023.model_info</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_9c3cddadce710cb46efaca1a13a16992</ID>
+      <FullPath>C:\Users\Ibrahima SARR\Documents\Keyman Developer\Projects\isarr.ff-latn.ful2023\source\..\build\isarr.ff-latn.ful2023.model.js</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_356e5d149c1e539356d72698c1e401a6</ID>
+      <FullPath>C:\Users\Ibrahima SARR\Documents\Keyman Developer\Projects\isarr.ff-latn.ful2023\source\welcome.htm</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_8da344c4cea6f467013357fe099006f5</ID>
+      <FullPath>C:\Users\Ibrahima SARR\Documents\Keyman Developer\Projects\isarr.ff-latn.ful2023\source\readme.htm</FullPath>
+    </FileState>
+  </FileStates>
+  <MRU>
+    <File>
+      <ID>id_MRU0</ID>
+      <Filename>isarr.ff-latn.ful2023.model.ts</Filename>
+      <FileType>.ts</FileType>
+      <FullPath>C:\Users\Ibrahima SARR\Documents\Keyman Developer\Projects\isarr.ff-latn.ful2023\source\isarr.ff-latn.ful2023.model.ts</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU1</ID>
+      <Filename>isarr.ff-latn.ful2023.model.kps</Filename>
+      <FileType>.kps</FileType>
+      <FullPath>C:\Users\Ibrahima SARR\Documents\Keyman Developer\Projects\isarr.ff-latn.ful2023\source\isarr.ff-latn.ful2023.model.kps</FullPath>
+    </File>
+  </MRU>
+</KeymanDeveloperProjectUser>
